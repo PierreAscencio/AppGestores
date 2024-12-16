@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f71552d9a27296f04d6eafff9607d2ca4943783fec1d985383104ea62e335e5
-size 56
+Link de mi Render https://yeisonv2.onrender.com
+Link del url de deploy de JSON (Desde donde se despliega) https://github.com/PierreAscencio/yeisonV2/tree/main
+
+Codigos para los capacitores
+npm install @ionic/angular@latest
+npm install swiper@latest
+npm install @capacitor/toast@6.0.2
+npm install @capacitor/barcode-scanner
+npm install @capacitor/camera
